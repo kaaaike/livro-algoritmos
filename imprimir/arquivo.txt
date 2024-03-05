@@ -1,0 +1,10 @@
+"João; (11) 98765-4321; Av. Brasil, 123",
+"Maria; (21) 99876-5432; Rua Alegria, 456",
+"Pedro; (19) 98765-1234; Travessa das Flores, 789",
+"Ana; (31) 99876-2345; Praça Central, 101",
+"Carlos; (41) 98765-3456; Alameda dos Sonhos, 202",
+"Juliana; (51) 99876-4567; Rodovia da Paz, 303",
+"Lucas; (61) 98765-5678; Avenida da Esperança, 404",
+"Camila; (71) 99876-6789; Beco das Artes, 505",
+"Gabriel; (81) 98765-7890; Travessa dos Desejos, 606",
+"Amanda; (91) 99876-8901; Largo dos Amores, 707"
